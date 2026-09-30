@@ -1,0 +1,2 @@
+# AMIT
+An animated website
